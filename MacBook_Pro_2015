@@ -1,3 +1,14 @@
 MacBook Pro (2015)
-* 2016-02-06, 10:37 AM 
-  * Sophos Anti-Virus: https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx
+Reimage with El Capitan. 
+2016-02-06, 10:37 AM:
+* Worked on fixing Mail issues. 
+  * Deleted my primary account from all machines.
+  * Recreated manually
+  * Unchecked "Automatically detect and maintain account settings"
+    * Mail was trying to login plain instead of MD5/CRAM until I checked "Allow insecure authentication". 
+    * Unchecking it & restarting Mail seems to have fixed it, finally. Fingers crossed - that config has been screwed up for months.
+    
+ * Menu Bar: display Bluetooth, Displays, Battery %, AM/PM, Date, Day of Week, Keyboard/Character
+ * Desktop: Bahamas Aerial
+ * ScreenSaver: Ken Burns, NatGeo
+ * Sophos Anti-Virus: https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx
