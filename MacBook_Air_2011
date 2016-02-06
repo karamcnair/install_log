@@ -1,3 +1,13 @@
 MacBook Air (2011)
-* 2016/02/06: 9:48 am: to regain the insert date shortcut that used to be in System Preferences: 
+* 2016-02-06, 9:48 AM: to regain the insert date shortcut that used to be in System Preferences: 
   * WordService: <s>http://www.devontechnologies.com/products/freeware.html</s> via AppStore
+  * Interesting - the date shortcut doesn't work in the github text editor. I guess I'll have to use Sublime & its git integration.
+  
+* 2016-02-06, 9:57:31 AM: do I upgrade to ST3? $70 is a lot right now & I have a license for ST2. But the plugins for 2 are getting stale.
+  * SublimeText 2: http://www.sublimetext.com/2 
+  * Chrome: https://www.google.com/chrome/ 
+  * Sophos Anti-Virus: https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx
+  * Skype: http://www.skype.com/en/ 
+  * Xcode: (automatic when trying to clone via git)
+  * cDock: (git clone https://github.com/karamcnair/cDock.git)
+  * System Display Preferences: Graphite for all.
