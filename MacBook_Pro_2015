@@ -35,6 +35,11 @@
 * Spotify: https://www.spotify.com/ca-en/download/
 * HotSpot Shield: https://www.hotspotshield.com/
 * Skype: http://www.skype.com/en/
+* Steam: http://store.steampowered.com/about/ 
+* MacJournal: http://marinersoftware.com/download/
+* IntelliJ: https://www.jetbrains.com/idea/#chooseYourEdition 
+* DropBox: https://www.dropbox.com/downloading?src=index 
+
 
 AppStore
 * WordService
@@ -64,6 +69,7 @@ AppStore
 * LightTable
 * Android Studio
 * Textual.app (IRC)
+* Arduino
 
 
 ##Need to find the right version for (look at backups)
@@ -72,3 +78,8 @@ AppStore
 * MS Office
 * Adobe CS
 
+
+##CLI installs (later)
+brew
+pip
+node
